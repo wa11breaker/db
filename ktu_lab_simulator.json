@@ -1,0 +1,152 @@
+{
+  "labManual": {
+    "eda": [
+      {
+        "name": "Potential Divider",
+        "link": "https://firebasestorage.googleapis.com/v0/b/ktu-lab-simulator.appspot.com/o/PDFs%2Feda%2Fpotential%20divider.pdf?alt=media&token=443403c8-3f43-4b08-be2c-7c1280474c17"
+      },
+      {
+        "name": "Integrator & Differentiator",
+        "link": "https://firebasestorage.googleapis.com/v0/b/ktu-lab-simulator.appspot.com/o/PDFs%2Feda%2FIntegrator%20%26%20differentator.pdf?alt=media&token=63a76040-1fb9-47d8-8d7a-d7ffb95dfb28"
+      },
+      {
+        "name": "Astable Multivibrator",
+        "link": "https://firebasestorage.googleapis.com/v0/b/ktu-lab-simulator.appspot.com/o/PDFs%2Feda%2FAstable%20multivibrator.pdf?alt=media&token=ff96eabc-3d1e-452b-939e-6042d23d0575"
+      },
+      {
+        "name": "Diode characterstic",
+        "link": "https://firebasestorage.googleapis.com/v0/b/ktu-lab-simulator.appspot.com/o/PDFs%2Feda%2FDiode%20characterstics.pdf?alt=media&token=5b45214b-05ec-4441-9251-c763d2f7e614"
+      },
+      {
+        "name": "Encoder & decoder",
+        "link": "https://firebasestorage.googleapis.com/v0/b/ktu-lab-simulator.appspot.com/o/PDFs%2Feda%2FEncoder%20%26%20decoder.pdf?alt=media&token=3cb240f9-e580-4ea7-9179-802e47d2760c"
+      },
+      {
+        "name": "Full adder",
+        "link": "https://firebasestorage.googleapis.com/v0/b/ktu-lab-simulator.appspot.com/o/PDFs%2Feda%2FFull%20adder.pdf?alt=media&token=1716a347-e72b-47e2-b908-c10046ba156d"
+      },
+      {
+        "name": "Genaratio of different waveforms.",
+        "link": "https://firebasestorage.googleapis.com/v0/b/ktu-lab-simulator.appspot.com/o/PDFs%2Feda%2FGenaratio%20of%20different%20waveforms.pdf?alt=media&token=ea6a3212-e764-4091-88dc-409b6f096580"
+      },
+      {
+        "name": "Solving & plotting equation",
+        "link": "https://firebasestorage.googleapis.com/v0/b/ktu-lab-simulator.appspot.com/o/PDFs%2Feda%2FVerification%20of%20gates.pdf?alt=media&token=ac167dcd-523f-4453-a8ea-7a080095b74f"
+      },
+      {
+        "name": "Verification of gates",
+        "link": "https://firebasestorage.googleapis.com/v0/b/ktu-lab-simulator.appspot.com/o/PDFs%2Feda%2FSolving%20%26%20plotting%20equation.pdf?alt=media&token=4dc1075d-b8e7-435d-a63a-8674d142a6b7"
+      },
+      {
+        "name": "2d/3d surface and plar plots",
+        "link": "https://firebasestorage.googleapis.com/v0/b/ktu-lab-simulator.appspot.com/o/PDFs%2Feda%2F2d%203d%20surface%20and%20plar%20plots.pdf?alt=media&token=b6c7fc6d-7efc-439f-8b2a-1384b9dbacc0"
+      }
+    ],
+    "edc": [
+      {
+        "name": "Diode characterestics",
+        "link": "https://firebasestorage.googleapis.com/v0/b/ktu-lab-simulator.appspot.com/o/PDFs%2Fedc%2FExp%201%20Diode%20characterestics.pdf?alt=media&token=20d42aa8-0332-4f34-8c5c-73c4f4c90fdd"
+      },
+      {
+        "name": "RC integrating and differentiating circuit",
+        "link": "https://firebasestorage.googleapis.com/v0/b/ktu-lab-simulator.appspot.com/o/PDFs%2Fedc%2FExp%202%20Rc%20integrating%20and%20differentiating%20ckt.pdf?alt=media&token=7dcddf7f-2535-4add-8d07-73a0d46de435"
+      },
+      {
+        "name": "Clipping and clamping circuit",
+        "link": "https://firebasestorage.googleapis.com/v0/b/ktu-lab-simulator.appspot.com/o/PDFs%2Fedc%2FExp%203%20Clipping%20and%20clamping%20ckt.pdf?alt=media&token=5f185496-6588-4523-9bf3-c6835df4fadb"
+      },
+      {
+        "name": "Full wave rectifier",
+        "link": "https://firebasestorage.googleapis.com/v0/b/ktu-lab-simulator.appspot.com/o/PDFs%2Fedc%2FExp4%20Full%20wave%20rectifier.pdf?alt=media&token=ebe243d8-b32c-41da-bb8b-6249c248546a"
+      },
+      {
+        "name": "Characteristics of zener voltage regulator",
+        "link": "https://firebasestorage.googleapis.com/v0/b/ktu-lab-simulator.appspot.com/o/PDFs%2Fedc%2FExp%205%20Chara%20of%20%20zener%20voltage%20regulat.pdf?alt=media&token=b54fc747-e862-4533-872b-c91621868a02"
+      },
+      {
+        "name": "CE chara of transistor",
+        "link": "https://firebasestorage.googleapis.com/v0/b/ktu-lab-simulator.appspot.com/o/PDFs%2Fedc%2FExp%206%20CE%20chara%20of%20transistor.pdf?alt=media&token=945fda66-f567-4503-9be8-82c6df02c89f"
+      },
+      {
+        "name": "RC coupled amplifier",
+        "link": "https://firebasestorage.googleapis.com/v0/b/ktu-lab-simulator.appspot.com/o/PDFs%2Fedc%2FExp%207%20Rc%20coupled%20amplifier.pdf?alt=media&token=ca560eb7-0402-4784-a871-9c0b724785ec"
+      },
+      {
+        "name": "Low frequency oscillator",
+        "link": "https://firebasestorage.googleapis.com/v0/b/ktu-lab-simulator.appspot.com/o/PDFs%2Fedc%2FExp%208%20Low%20frequency%20oscillator.pdf?alt=media&token=b63460f2-0333-48db-9f0d-000378d86076"
+      },
+      {
+        "name": "Bootstrap sweep generator",
+        "link": "https://firebasestorage.googleapis.com/v0/b/ktu-lab-simulator.appspot.com/o/PDFs%2Fedc%2FExp%209%20Bootstrap%20sweep%20generator.pdf?alt=media&token=3a6843e8-67fc-4e76-8346-43eca14cb934"
+      },
+      {
+        "name": "Multivibrators",
+        "link": "https://firebasestorage.googleapis.com/v0/b/ktu-lab-simulator.appspot.com/o/PDFs%2Fedc%2FExp10%20Multivibrators.pdf?alt=media&token=efcd29fc-1f78-43c4-881f-b18050809c0f"
+      }
+    ]
+  },
+  "viva": {
+    "eda": [
+      {
+        "name": "",
+        "link": ""
+      }
+    ],
+    "edc": [
+      {
+        "name": "Diode characteristics",
+        "link": "https://firebasestorage.googleapis.com/v0/b/ktu-lab-simulator.appspot.com/o/PDFs%2Fedc_viva%2FExp%201-Diode%20characteristics.pdf?alt=media&token=174e366d-3cc0-422d-a2a7-995d0df42173"
+      },
+      {
+        "name": "RC integrating& differentiating circuit",
+        "link": "https://firebasestorage.googleapis.com/v0/b/ktu-lab-simulator.appspot.com/o/PDFs%2Fedc_viva%2FExp%202%20-RC%20integrating%26%20differentiating%20circuit.pdf?alt=media&token=0530755f-d797-4a3e-a7d9-84c6a1660107"
+      },
+      {
+        "name": "Clipping & clamping circuits",
+        "link": "https://firebasestorage.googleapis.com/v0/b/ktu-lab-simulator.appspot.com/o/PDFs%2Fedc_viva%2FExp%203%20-clipping%20%26%20clamping%20circuits.pdf?alt=media&token=b3f09f94-6bd8-4e18-b4da-41bb3d805c3d"
+      },
+      {
+        "name": "Full wave rectifier circuit",
+        "link": "https://firebasestorage.googleapis.com/v0/b/ktu-lab-simulator.appspot.com/o/PDFs%2Fedc_viva%2FExp%204%20-Full%20wave%20rectifier%20circuit.pdf?alt=media&token=33768c2c-6423-483d-b66d-605aefb107d4"
+      },
+      {
+        "name": "Characteristics of zener voltage regulator",
+        "link": "https://firebasestorage.googleapis.com/v0/b/ktu-lab-simulator.appspot.com/o/PDFs%2Fedc_viva%2FExp%205%20-characteristics%20of%20zener%20voltage%20regulator.pdf?alt=media&token=2cf89a2d-7152-4533-aeb0-f1fdfc311c04"
+      },
+      {
+        "name": "CE characteristics of transistor",
+        "link": "https://firebasestorage.googleapis.com/v0/b/ktu-lab-simulator.appspot.com/o/PDFs%2Fedc_viva%2FExp%206-CE%20characteristics%20of%20transistor.pdf?alt=media&token=aaa0070d-7879-4c80-a8e9-8fa2b4cf9cd6"
+      },
+      {
+        "name": "RC coupled amplifier",
+        "link": "https://firebasestorage.googleapis.com/v0/b/ktu-lab-simulator.appspot.com/o/PDFs%2Fedc_viva%2FExp%207-RC%20coupled%20amplifier.pdf?alt=media&token=1da56d57-443f-4d86-887c-052311062d0a"
+      },
+      {
+        "name": "Low frequency oscillators",
+        "link": "https://firebasestorage.googleapis.com/v0/b/ktu-lab-simulator.appspot.com/o/PDFs%2Fedc_viva%2FExp%208-Low%20frequency%20oscillators.pdf?alt=media&token=36898290-a615-49a2-9b30-4215525e157c"
+      },
+      {
+        "name": "Bootstrap sweep generator",
+        "link": "https://firebasestorage.googleapis.com/v0/b/ktu-lab-simulator.appspot.com/o/PDFs%2Fedc_viva%2FExp%209-Bootstrap%20sweep%20generator.pdf?alt=media&token=bac11e81-ea87-46ef-b3c6-d48aed91d077"
+      },
+      {
+        "name": "Multivibrators",
+        "link": "https://firebasestorage.googleapis.com/v0/b/ktu-lab-simulator.appspot.com/o/PDFs%2Fedc_viva%2FExp%2010-Multivibrators.pdf?alt=media&token=c7e02199-8cf1-486b-9883-b8483546fbd6"
+      }
+    ]
+  },
+  "syllabus": {
+    "eda": [
+      {
+        "name": "",
+        "link": ""
+      }
+    ],
+    "edc": [
+      {
+        "name": "",
+        "link": ""
+      }
+    ]
+  }
+}
