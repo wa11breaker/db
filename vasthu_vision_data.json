@@ -1,9 +1,31 @@
 [
     {
-        "area": 770,
+        "area": 1575,
         "direction": "East",
-        "gf": "https://firebasestorage.googleapis.com/v0/b/vastu-app-54955.appspot.com/o/images%2FE-770-FF.jpg?alt=media&token=679ed473-3587-4a99-ba80-b06e9a274b1b",
-        "ff": "https://firebasestorage.googleapis.com/v0/b/vastu-app-54955.appspot.com/o/images%2FE-770-GF_1.jpg?alt=media&token=4b223087-b9c4-439e-a4db-06c745183ae2",
-        "3d": "https://firebasestorage.googleapis.com/v0/b/vastu-app-54955.appspot.com/o/images%2FE-770-GF.jpg?alt=media&token=30af2757-9ca9-4134-8b57-58a60e1ef4cd"
+        "GF": "https://firebasestorage.googleapis.com/v0/b/vasthu-vision.appspot.com/o/images%2FW-1076-GF.jpg?alt=media&token=88dbfed5-1d84-47e9-9384-64187f2c3204",
+        "FF": "https://firebasestorage.googleapis.com/v0/b/vasthu-vision.appspot.com/o/images%2FW-1076-GF.jpg?alt=media&token=88dbfed5-1d84-47e9-9384-64187f2c3204",
+        "3D": "https://firebasestorage.googleapis.com/v0/b/vasthu-vision.appspot.com/o/images%2FW-1076-GF.jpg?alt=media&token=88dbfed5-1d84-47e9-9384-64187f2c3204"
+    },
+    {
+        "area": 1575,
+        "direction": "North",
+        "GF": "E-1575-GF.jpg?alt=media&token=771de00d-7a2e-4093-9798-4b554688b88b",
+        "FF": "https://firebasestorage.googleapis.com/v0/b/vasthu-vision.appspot.com/o/images%2FW-1076-GF.jpg?alt=media&token=88dbfed5-1d84-47e9-9384-64187f2c3204",
+        "3D": "https://firebasestorage.googleapis.com/v0/b/vasthu-vision.appspot.com/o/images%2FW-1076-GF.jpg?alt=media&token=88dbfed5-1d84-47e9-9384-64187f2c3204"
+    },
+    {
+        "area": 1575,
+        "direction": "South",
+        "GF": "E-1575-GF.jpg?alt=media&token=771de00d-7a2e-4093-9798-4b554688b88b",
+        "FF": "https://firebasestorage.googleapis.com/v0/b/vasthu-vision.appspot.com/o/images%2FW-1076-GF.jpg?alt=media&token=88dbfed5-1d84-47e9-9384-64187f2c3204",
+        "3D": "https://firebasestorage.googleapis.com/v0/b/vasthu-vision.appspot.com/o/images%2FW-1076-GF.jpg?alt=media&token=88dbfed5-1d84-47e9-9384-64187f2c3204"
+    },
+    {
+        "area": 1575,
+        "direction": "West",
+        "GF": "E-1575-GF.jpg?alt=media&token=771de00d-7a2e-4093-9798-4b554688b88b",
+        "FF": "https://firebasestorage.googleapis.com/v0/b/vasthu-vision.appspot.com/o/images%2FW-1076-GF.jpg?alt=media&token=88dbfed5-1d84-47e9-9384-64187f2c3204",
+        "3D": "https://firebasestorage.googleapis.com/v0/b/vasthu-vision.appspot.com/o/images%2FW-1076-GF.jpg?alt=media&token=88dbfed5-1d84-47e9-9384-64187f2c3204"
     }
+  
 ]
