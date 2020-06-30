@@ -1,31 +1,94 @@
-[
-    {
-        "area": 1575,
-        "direction": "East",
-        "GF": "https://firebasestorage.googleapis.com/v0/b/vasthu-vision.appspot.com/o/images%2FW-1076-GF.jpg?alt=media&token=88dbfed5-1d84-47e9-9384-64187f2c3204",
-        "FF": "https://firebasestorage.googleapis.com/v0/b/vasthu-vision.appspot.com/o/images%2FW-1076-GF.jpg?alt=media&token=88dbfed5-1d84-47e9-9384-64187f2c3204",
-        "3D": "https://firebasestorage.googleapis.com/v0/b/vasthu-vision.appspot.com/o/images%2FW-1076-GF.jpg?alt=media&token=88dbfed5-1d84-47e9-9384-64187f2c3204"
-    },
-    {
-        "area": 1575,
-        "direction": "North",
-        "GF": "E-1575-GF.jpg?alt=media&token=771de00d-7a2e-4093-9798-4b554688b88b",
-        "FF": "https://firebasestorage.googleapis.com/v0/b/vasthu-vision.appspot.com/o/images%2FW-1076-GF.jpg?alt=media&token=88dbfed5-1d84-47e9-9384-64187f2c3204",
-        "3D": "https://firebasestorage.googleapis.com/v0/b/vasthu-vision.appspot.com/o/images%2FW-1076-GF.jpg?alt=media&token=88dbfed5-1d84-47e9-9384-64187f2c3204"
-    },
-    {
-        "area": 1575,
-        "direction": "South",
-        "GF": "E-1575-GF.jpg?alt=media&token=771de00d-7a2e-4093-9798-4b554688b88b",
-        "FF": "https://firebasestorage.googleapis.com/v0/b/vasthu-vision.appspot.com/o/images%2FW-1076-GF.jpg?alt=media&token=88dbfed5-1d84-47e9-9384-64187f2c3204",
-        "3D": "https://firebasestorage.googleapis.com/v0/b/vasthu-vision.appspot.com/o/images%2FW-1076-GF.jpg?alt=media&token=88dbfed5-1d84-47e9-9384-64187f2c3204"
-    },
-    {
-        "area": 1575,
-        "direction": "West",
-        "GF": "E-1575-GF.jpg?alt=media&token=771de00d-7a2e-4093-9798-4b554688b88b",
-        "FF": "https://firebasestorage.googleapis.com/v0/b/vasthu-vision.appspot.com/o/images%2FW-1076-GF.jpg?alt=media&token=88dbfed5-1d84-47e9-9384-64187f2c3204",
-        "3D": "https://firebasestorage.googleapis.com/v0/b/vasthu-vision.appspot.com/o/images%2FW-1076-GF.jpg?alt=media&token=88dbfed5-1d84-47e9-9384-64187f2c3204"
-    }
-  
+[{
+		"area": "1082",
+		"direction": "East",
+		"GF": "E-1082-GF.jpg?alt=media&token=7efd59ac-8856-4809-9854-76545f89b748",
+		"FF": "E-1082-FF.jpg?alt=media&token=742c826f-1d43-45d5-883a-b440a7a7957b",
+		"3D": "E-1082-3D.jpg?alt=media&token=6b2e6f19-c7c9-4569-93bc-f20019cb3356"
+	},
+	{
+		"area": "1128",
+		"direction": "East",
+		"GF": "E-1128-GF.jpg?alt=media&token=057e07fd-e268-41aa-bcf4-baefdd10ac04",
+		"FF": null,
+		"3D": "E-1128-3D.jpg?alt=media&token=a0ac4353-31bb-4047-af41-a1810ab9ebfb"
+	},
+	{
+		"area": "1151",
+		"direction": "East",
+		"GF": "E-1151-GF.jpg?alt=media&token=b744e450-1774-4e74-9e60-ad431c8a53d6",
+		"FF": "E-1151-FF.jpg?alt=media&token=436318e4-1d51-4127-b695-8bccc5594bdc",
+		"3D": null
+	},
+	{
+		"area": "1155",
+		"direction": "East",
+		"GF": "E-1155-GF.jpg?alt=media&token=9008ee3a-b244-4fc3-a518-e0417c2b3e6f",
+		"FF": "E-1155-FF.jpg?alt=media&token=ac649023-2607-48bb-99e2-1f72aec5cef5",
+		"3D": "E-1155-3D.jpg?alt=media&token=0d8cee9a-8df3-4741-9b24-2772c4598f62"
+	},
+	{
+		"area": "1159",
+		"direction": "East",
+		"GF": "E-1159-GF.jpg?alt=media&token=d5765eba-4b35-458d-a6a8-ff39a7ad2863",
+		"FF": "E-1159-FF.jpg?alt=media&token=b595984c-6051-4275-b3e2-325a855b302d",
+		"3D": "E-1159-3D.jpg?alt=media&token=4837427e-4068-4213-ad40-f4be29789e2b"
+	},
+	{
+		"area": "1184",
+		"direction": "East",
+		"GF": "E-1184-GF.jpg?alt=media&token=f58ecab5-f144-49cc-9a3e-75894e716711",
+		"FF": "E-1184-FF.jpg?alt=media&token=1e032bd3-883e-475e-8f7f-ac59a0c536a0",
+		"3D": "E-1184-3D.jpg?alt=media&token=b1cce2b5-e5ad-467f-a19e-1d81273caf10"
+	},
+	{
+		"area": "1225",
+		"direction": "East",
+		"GF": "E-1225-GF.jpg?alt=media&token=642c66d6-6969-4f20-9847-2834d5b0e21f",
+		"FF": null,
+		"3D": "E-1225-3D.jpg?alt=media&token=6c596284-6908-40ff-9254-4eb46277393e"
+	},
+	{
+		"area": "1229",
+		"direction": "East",
+		"GF": null,
+		"FF": null,
+		"3D": "E-1229-3D.jpg?alt=media&token=8bccf221-fdbe-45ff-9ffd-63902ff40b6a"
+	},
+	{
+		"area": "1234",
+		"direction": "East",
+		"GF": "E-1234-GF.jpg?alt=media&token=15736afd-944e-46d3-9938-1bd47ffa5737",
+		"FF": null,
+		"3D": "E-1234-3D.jpg?alt=media&token=2e926c5f-9125-4a42-a68d-d28a531b4f9b"
+	},
+	{
+		"area": "1237",
+		"direction": "East",
+		"GF": "E-1237-GF.jpg?alt=media&token=2eef8f08-137d-4d6b-8b17-a5faa33aa327",
+		"FF": "E-1237-FF.jpg?alt=media&token=4dd10857-bd68-446a-b2f6-e0c913d953ca",
+		"3D": "E-1237-3D.jpg?alt=media&token=1b80bac0-5f25-4d8f-820c-8806d2f4d999"
+	},
+	{
+		"area": "1345",
+		"direction": "East",
+		"GF": "E-1345-GF.jpg?alt=media&token=62c09849-e85c-4516-8c21-bad29691c099",
+		"FF": "E-1345-FF.jpg?alt=media&token=67f22c8d-2e3b-4f82-b60b-0630c42cec0a",
+		"3D": "E-1345-3D.jpg?alt=media&token=6a2bad5c-9768-4e2a-a704-c80e0f1f23ea"
+	},
+	{
+		"area": "1350",
+		"direction": "East",
+		"GF": "E-1350-GF.jpg?alt=media&token=d99c6d4c-2f87-425c-a18a-547f7d304cb6",
+		"FF": "E-1350-FF.jpg?alt=media&token=7d9459a3-5465-42e7-ac8b-264cd13f7ec1",
+		"3D": "E-1350-3D.jpg?alt=media&token=57d50965-8b70-4e87-be7c-4090eb506f1d"
+	},
+	{
+		"area": "1353",
+		"direction": "East",
+		"GF": "E-1353-GF.jpg?alt=media&token=4c2a1fe0-81b0-4305-8ff5-8b13b0eb61d9",
+		"FF": "E-1353-FF.jpg?alt=media&token=008775fd-e37f-414d-94cf-5931e43e71c9",
+		"3D": "E-1353-3D.jpg?alt=media&token=2b57934d-89f7-4bcf-b288-2721d4ece1f7"
+	}
+
+
 ]
