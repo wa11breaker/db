@@ -138,14 +138,14 @@
   "syllabus": {
     "eda": [
       {
-        "name": "",
-        "link": ""
+        "name": "EDA",
+        "link": "https://firebasestorage.googleapis.com/v0/b/ktu-lab-simulator.appspot.com/o/PDFs%2Fsyllabus%2FEDA-Lab.pdf?alt=media&token=03b7499d-33aa-4d02-917a-cc4e8bfb4b5a"
       }
     ],
     "edc": [
       {
-        "name": "",
-        "link": ""
+        "name": "EDC",
+        "link": "https://firebasestorage.googleapis.com/v0/b/ktu-lab-simulator.appspot.com/o/PDFs%2Fsyllabus%2FEDC-lab.pdf?alt=media&token=95a9fa08-ad79-4f51-b970-c035e2482d3c"
       }
     ]
   }
