@@ -43,8 +43,8 @@
 {
     "area": "1225",
     "direction": "East",
-    "GF": "E-1225-GF.jpg?alt=media&token=642c66d6-6969-4f20-9847-2834d5b0e21f",
-    "FF": null,
+    "GF": "E-1225-GF.jpg?alt=media&token=36568221-7180-4d47-a604-6fde1611c018",
+    "FF": "E-1225-GF.jpg?alt=media&token=36568221-7180-4d47-a604-6fde1611c018",
     "3D": "E-1225-3D.jpg?alt=media&token=6c596284-6908-40ff-9254-4eb46277393e"
 },
 {
@@ -120,8 +120,8 @@
 {
     "area": "1390",
     "direction": "East",
-    "GF": "E-1390-GF.jpg?alt=media&token=d6401210-b277-4e10-a4c5-c8165ac0c699",
-    "FF": "E-1390-FF.jpg?alt=media&token=a5ef3382-e15f-40d2-9331-043cd6dcc3e9",
+    "GF": "E-1390-GF.jpg?alt=media&token=7391b078-0826-4b6b-ac32-676b80ca0fc3",
+    "FF": "E-1390-FF.jpg?alt=media&token=34ec7896-f695-43ab-aba7-cd7253135c4f",
     "3D": "E-1390-3D.jpg?alt=media&token=d7046ef9-704e-4606-b292-a41d57d8725c"
 },
 {
@@ -190,7 +190,7 @@
 {
     "area": "1241",
     "direction": "North",
-    "GF": "N-1241-GF.jpg?alt=media&token=cfcaeecd-d6bd-411b-92c3-415e330b4026",
+    "GF": "N-1241-GF.jpg?alt=media&token=cc1c4a42-2102-4cba-b834-deb962f7fb7a",
     "FF": "N-1241-FF.jpg?alt=media&token=0ecaf215-800c-466e-99e0-1b4388216eb5",
     "3D": "N-1241-3D.jpg?alt=media&token=62d0c0db-dbf9-44ff-938e-388e57f13c38"
 },
@@ -239,9 +239,16 @@
 {
     "area": "1354",
     "direction": "North",
-    "GF": "N-1354-GF.jpg?alt=media&token=7d5545a2-93dd-45c2-b9f8-d6b3bfd7435a",
-    "FF": "N-1354-FF.jpg?alt=media&token=0888b58e-81d0-4ef5-ba44-483bfd9badf7",
+    "GF": "N-1354%20-GF.jpg?alt=media&token=7d5545a2-93dd-45c2-b9f8-d6b3bfd7435a",
+    "FF": "N-1354%20-FF.jpg?alt=media&token=5031ece9-a159-4b21-b287-ff28ee71550d",
     "3D": "N-1354-3D.jpg?alt=media&token=b9e89cf7-f869-4314-a2ad-9773f3c34ac9"
+},
+{
+    "area": "1442",
+    "direction": "North",
+    "GF": "N-1442-GF.jpg?alt=media&token=26d7907a-4611-4b7f-a42e-9dac69650267",
+    "FF": "N-1422-FF.jpg?alt=media&token=6a613b12-4289-4550-a4e3-27cdd614fb1a",
+    "3D": "N-1442-3D.jpeg?alt=media&token=4e737293-f38f-4dc8-96ae-6fbf41ed7abe"
 },
 {
     "area": "1496",
@@ -274,7 +281,7 @@
 {
     "area": "948",
     "direction": "North",
-    "GF": "N-948-GF.jpg?alt=media&token=70480c3b-64bb-49c7-b334-96a114e72a0d",
+    "GF": "N-948-GF.jpg?alt=media&token=3603cd8d-b60e-4a7e-80ba-5b3351a8126f",
     "FF": null,
     "3D": "N-948-3D.jpg?alt=media&token=bcec1fa4-e6c2-45ad-a1d6-9991b1f48e3b"
 },
@@ -316,8 +323,8 @@
 {
     "area": "1083",
     "direction": "West",
-    "GF": "W-1083-GF.jpg?alt=media&token=37a259f1-3e50-413d-8c6d-13baec8f8bdb",
-    "FF": "W-1083-FF.jpg?alt=media&token=aa1cf8d4-ecbc-459e-be6d-db6d8d7dfce6",
+    "GF": "W-1083-FF.jpg?alt=media&token=842f44d3-7c24-4496-9d85-1950b8d8c38a",
+    "FF": "W-1083-GF.jpg?alt=media&token=c985e274-4068-4f11-adf2-a701b9f03865",
     "3D": "W-1083-3D.jpg?alt=media&token=cc8d7fad-d8bc-46ab-9058-f8c86048fd5c"
 },
 {
