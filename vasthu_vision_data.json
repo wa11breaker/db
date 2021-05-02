@@ -50,8 +50,8 @@
 {
     "area": "1229",
     "direction": "East",
-    "GF": null,
-    "FF": null,
+    "GF": "E-1229-GF.jpg?alt=media&token=a3c610cf-3a77-453d-a31c-a239b0ad23f2",
+    "FF": "E-1229-FF.jpg?alt=media&token=2bd24dbf-c46c-4022-a2aa-472d1b4aa8da",
     "3D": "E-1229-3D.jpg?alt=media&token=8bccf221-fdbe-45ff-9ffd-63902ff40b6a"
 },
 {
@@ -63,7 +63,7 @@
 },
 {
     "area": "1237",
-    "direction": "East",
+    "direction": "North",
     "GF": "E-1237-GF.jpg?alt=media&token=2eef8f08-137d-4d6b-8b17-a5faa33aa327",
     "FF": "E-1237-FF.jpg?alt=media&token=4dd10857-bd68-446a-b2f6-e0c913d953ca",
     "3D": "E-1237-3D.jpg?alt=media&token=1b80bac0-5f25-4d8f-820c-8806d2f4d999"
